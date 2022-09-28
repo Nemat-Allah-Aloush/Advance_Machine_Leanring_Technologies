@@ -4,9 +4,10 @@ Tasks for Advanced Machine Learning Technologies Course at ITMO University.
 ----
 
 ## Index
-1. [First Task : Time Series Analysis](#first-task--function-optimization)
-2. [Second Task]()
-3. [Third Task]()
+1. [First Task : Time Series Analysis](#first-task--time-series-analysis)
+2. [Second Task: Interpretable ML](#second-task-interpretable-ml)
+3. [Third Task: Generative Models]()
+4. [Forth Task: ]()
 ---
 
 ## [First Task : Time Series Analysis]()
@@ -17,3 +18,6 @@ Tasks for Advanced Machine Learning Technologies Course at ITMO University.
 
 
 ## [Third Task: Generative Models]()
+
+
+## [Forth Task: ]()
